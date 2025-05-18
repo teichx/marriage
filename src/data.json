@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Até 100 reais",
+    "items": [
+      {
+        "imageUrl": "",
+        "name": "Utensílios de cozinha (espátulas, colheres, conchas)"
+      },
+      {
+        "imageUrl": "",
+        "name": "Porta-condimentos"
+      },
+      {
+        "imageUrl": "",
+        "name": "Tapetes de banheiro"
+      },
+      {
+        "imageUrl": "",
+        "name": "Cestos organizadores"
+      },
+      {
+        "imageUrl": "",
+        "name": "Vela aromática e difusor de ambiente"
+      },
+      {
+        "imageUrl": "",
+        "name": "Conjunto de sousplats"
+      },
+      {
+        "imageUrl": "",
+        "name": "Jogo de toalhas"
+      },
+      {
+        "imageUrl": "",
+        "name": "Formas de bolo"
+      },
+      {
+        "imageUrl": "",
+        "name": "Jogo de facas"
+      }
+    ]
+  },
+  {
+    "title": "De 100 a 500 reais",
+    "items": [
+      {
+        "imageUrl": "",
+        "name": "Batedeira"
+      },
+      {
+        "imageUrl": "",
+        "name": "Liquidificador"
+      },
+      {
+        "imageUrl": "",
+        "name": "Sanduicheira"
+      },
+      {
+        "imageUrl": "",
+        "name": "Ferro de passar"
+      },
+      {
+        "imageUrl": "",
+        "name": "Multi processador (mixer)"
+      },
+      {
+        "imageUrl": "",
+        "name": "Panela de arroz"
+      },
+      {
+        "imageUrl": "",
+        "name": "Panela de pressão  elétrica"
+      },
+      {
+        "imageUrl": "",
+        "name": "Potes herméticos"
+      },
+      {
+        "imageUrl": "",
+        "name": "Tapete sala"
+      },
+      {
+        "imageUrl": "",
+        "name": "Aparelho de jantar"
+      },
+      {
+        "imageUrl": "",
+        "name": "Jogo de panelas"
+      },
+      {
+        "imageUrl": "",
+        "name": "Frigideira antiaderente"
+      },
+      {
+        "imageUrl": "",
+        "name": "Jogo de taças"
+      },
+      {
+        "imageUrl": "",
+        "name": "Conjunto de travessas"
+      },
+      {
+        "imageUrl": "",
+        "name": "Plantas ou vasos decorativos"
+      },
+      {
+        "imageUrl": "",
+        "name": "Chaleira elétrica"
+      },
+      {
+        "imageUrl": "",
+        "name": "Roupas de cama"
+      },
+      {
+        "imageUrl": "",
+        "name": "Aspirador de pó"
+      },
+      {
+        "imageUrl": "",
+        "name": "Parafusadeira e/ou furadeira"
+      },
+      {
+        "imageUrl": "",
+        "name": "Talheres"
+      },
+      {
+        "imageUrl": "",
+        "name": "Alexa"
+      }
+    ]
+  },
+  {
+    "title": "Acima de 500 reais",
+    "items": [
+      {
+        "imageUrl": "",
+        "name": "Micro-ondas"
+      },
+      {
+        "imageUrl": "",
+        "name": "Cafeteira elétrica"
+      },
+      {
+        "imageUrl": "",
+        "name": "Robô aspirador"
+      },
+      {
+        "imageUrl": "",
+        "name": "Cama"
+      },
+      {
+        "imageUrl": "",
+        "name": "Churrasqueira"
+      },
+      {
+        "imageUrl": "",
+        "name": "Airfryer"
+      },
+      {
+        "imageUrl": "",
+        "name": "Sofá"
+      },
+      {
+        "imageUrl": "",
+        "name": "TV"
+      },
+      {
+        "imageUrl": "",
+        "name": "Mesa de jantar"
+      }
+    ]
+  }
+]
