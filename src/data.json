@@ -3,39 +3,39 @@
     "title": "Até 100 reais",
     "items": [
       {
-        "imageUrl": "",
+        "imageUrl": "utencilios.png",
         "name": "Utensílios de cozinha (espátulas, colheres, conchas)"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "tempero.png",
         "name": "Porta-condimentos"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "tapetes-banheiro.png",
         "name": "Tapetes de banheiro"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "cestos.jpg",
         "name": "Cestos organizadores"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "velas.jpg",
         "name": "Vela aromática e difusor de ambiente"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "sousplat.jpg",
         "name": "Conjunto de sousplats"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "toalhas.jpg",
         "name": "Jogo de toalhas"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "forma.jpg",
         "name": "Formas de bolo"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "facas.jpg",
         "name": "Jogo de facas"
       }
     ]
@@ -44,87 +44,87 @@
     "title": "De 100 a 500 reais",
     "items": [
       {
-        "imageUrl": "",
+        "imageUrl": "batedeira.jpg",
         "name": "Batedeira"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "liquidificador.jpg",
         "name": "Liquidificador"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "sandwitch.jpg",
         "name": "Sanduicheira"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "ferro de passar.jpg",
         "name": "Ferro de passar"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "mixer.png",
         "name": "Multi processador (mixer)"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "panela de arroz.png",
         "name": "Panela de arroz"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "panela de pressao eletrica.png",
         "name": "Panela de pressão  elétrica"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "potes hermeticos.jpg",
         "name": "Potes herméticos"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "tapete-sala.jpg",
         "name": "Tapete sala"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "jantar.jpg",
         "name": "Aparelho de jantar"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "panelas.jpg",
         "name": "Jogo de panelas"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "frigideira.jpg",
         "name": "Frigideira antiaderente"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "taças.jpg",
         "name": "Jogo de taças"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "travessas.png",
         "name": "Conjunto de travessas"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "plantas.jpg",
         "name": "Plantas ou vasos decorativos"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "chaleira.png",
         "name": "Chaleira elétrica"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "roupa de cama.jpg",
         "name": "Roupas de cama"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "aspirador-do-po.jpg",
         "name": "Aspirador de pó"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "parafusadeira.jpg",
         "name": "Parafusadeira e/ou furadeira"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "talheres.jpg",
         "name": "Talheres"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "alexa.jpg",
         "name": "Alexa"
       }
     ]
@@ -133,40 +133,36 @@
     "title": "Acima de 500 reais",
     "items": [
       {
-        "imageUrl": "",
+        "imageUrl": "microwave.jpg",
         "name": "Micro-ondas"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "cafeteira.png",
         "name": "Cafeteira elétrica"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "robo.jpg",
         "name": "Robô aspirador"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "cama.jpg",
         "name": "Cama"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "churrasqueira.jpg",
         "name": "Churrasqueira"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "Airfryer.jpg",
         "name": "Airfryer"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "sofa.jpg",
         "name": "Sofá"
       },
       {
-        "imageUrl": "",
+        "imageUrl": "tv.jpg",
         "name": "TV"
-      },
-      {
-        "imageUrl": "",
-        "name": "Mesa de jantar"
       }
     ]
   }
