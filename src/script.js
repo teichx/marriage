@@ -25,7 +25,7 @@ window.addEventListener("load", fixAssets);
       ({ title, items }) => `
 <section class="max-w-4xl mx-auto">
   <div class="text-center py-5 my-5 bg-[#7a1855]">
-    <h2 class="text-[#fffef8]">${title}</h2>
+    <h2 class="text-4xl text-[#fffef8]">${title}</h2>
   </div>
   <div class="grid grid-cols-3 gap-6 px-4">
     ${items

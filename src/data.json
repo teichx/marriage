@@ -27,7 +27,7 @@
         "name": "Conjunto de sousplats"
       },
       {
-        "imageUrl": "toalhas.jpg",
+        "imageUrl": "toalha.png",
         "name": "Jogo de toalhas"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "imageUrl": "roupa de cama.jpg",
-        "name": "Roupas de cama"
+        "name": "Roupas de cama (Queen size)"
       },
       {
         "imageUrl": "aspirador-do-po.jpg",
@@ -143,10 +143,6 @@
       {
         "imageUrl": "robo.jpg",
         "name": "Robô aspirador"
-      },
-      {
-        "imageUrl": "cama.jpg",
-        "name": "Cama"
       },
       {
         "imageUrl": "churrasqueira.jpg",
